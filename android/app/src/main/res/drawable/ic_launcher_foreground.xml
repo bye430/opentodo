@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 与 AppLogo / favicon 一致：#1e3a8a 圆角方块 + 白色对勾描边 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="18"
+        android:translateY="18"
+        android:scaleX="2.25"
+        android:scaleY="2.25">
+        <path
+            android:fillColor="#1E3A8A"
+            android:pathData="M7,0 L25,0 A7,7 0 0 1 32,7 L32,25 A7,7 0 0 1 25,32 L7,32 A7,7 0 0 1 0,25 L0,7 A7,7 0 0 1 7,0 Z" />
+        <path
+            android:fillColor="#00000000"
+            android:pathData="M8,16 L14,22 L24,10"
+            android:strokeWidth="2.5"
+            android:strokeColor="#FFFFFF"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+    </group>
+</vector>

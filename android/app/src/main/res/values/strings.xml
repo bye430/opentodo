@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TODO</string>
+    <string name="notification_channel_reminders">任务提醒</string>
+    <string name="widget_my_day_desc">查看并打开「我的一天」任务</string>
+</resources>
